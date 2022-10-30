@@ -214,6 +214,7 @@ while True:
                 print('TENHA UMA BOA NOITE!')
             break
 sleep(2)
+print(100 * '_')
 print('OBRIGADO POR UTILIZAR O PROGRAMA') 
 conexao.commit()
 conexao.close()
