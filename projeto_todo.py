@@ -6,7 +6,7 @@ from sys import breakpointhook, float_repr_style
 from time import sleep
 from xmlrpc.client import boolean
 from datetime import datetime
-titulo = 'PROJETO MÓDULO 2'
+titulo = 'PROJETO FINAL MÓDULO 2 CURSO DE PYTHON DEVELOPMENT'
 print(titulo.center (100, '*'))
 
 conexao = sqlite3.connect('bancotodo.sqlite3')
