@@ -19,7 +19,7 @@ while True:
     DIGITE 2 - PARA ATUALIZAR TAREFAS
     DIGITE 3 - PARA EXCLUIR TAREFAS
     DIGITE 4 - PARA LISTAR TAREFAS
-    DIGITE 5 - PARA SAIR
+    DIGITE 5 - PARA SAIR DO PROGRAMA
     ''')
     menu = ' '
     coluna = 0
